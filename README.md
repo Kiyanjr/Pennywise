@@ -1,16 +1,32 @@
-# expense1_tracker
+# 📊 Pennywise
 
-A new Flutter project.
+A simple and clean expense tracker app built with Flutter.  
+Pennywise helps you keep track of your daily spending so you can save more and spend smarter!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Overview
 
-A few resources to get you started if this is your first Flutter project:
+Pennywise is a personal project I built to practice Flutter and learn more about mobile app development.  
+It lets you:
+- Add and save your daily expenses
+- View a list of all your expenses
+- See your spending at a glance
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app is lightweight and beginner-friendly — perfect for anyone who wants to see how a simple Flutter app can be made.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Features
+
+✅ Add new expenses with title and amount  
+✅ Display a list of all added expenses  
+✅ Clear and minimal user interface  
+✅ Data stored locally (in-memory for now)
+
+Planned features (coming soon):
+- Monthly charts
+- Better UI/UX with animations
+- Persistent storage (save expenses between app restarts)
+
+
